@@ -1,0 +1,26 @@
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Empleado\bin\Debug\netcoreapp3.1\Empresa.exe
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Empleado\bin\Debug\netcoreapp3.1\Empresa.deps.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Empleado\bin\Debug\netcoreapp3.1\Empresa.runtimeconfig.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Empleado\bin\Debug\netcoreapp3.1\Empresa.runtimeconfig.dev.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Empleado\bin\Debug\netcoreapp3.1\Empresa.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Empleado\bin\Debug\netcoreapp3.1\Empresa.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Empleado\obj\Debug\netcoreapp3.1\Empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Empleado\obj\Debug\netcoreapp3.1\Empresa.AssemblyInfoInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Empleado\obj\Debug\netcoreapp3.1\Empresa.AssemblyInfo.cs
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Empleado\obj\Debug\netcoreapp3.1\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Empleado\obj\Debug\netcoreapp3.1\Empresa.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Empleado\obj\Debug\netcoreapp3.1\Empresa.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Empleado\obj\Debug\netcoreapp3.1\Empresa.genruntimeconfig.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Empleado\obj\Debug\netcoreapp3.1\Empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Empleado\obj\Debug\netcoreapp3.1\Empresa.AssemblyInfoInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Empleado\obj\Debug\netcoreapp3.1\Empresa.AssemblyInfo.cs
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Empleado\obj\Debug\netcoreapp3.1\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Empleado\obj\Debug\netcoreapp3.1\Empresa.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Empleado\obj\Debug\netcoreapp3.1\Empresa.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Empleado\bin\Debug\netcoreapp3.1\Empresa.exe
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Empleado\bin\Debug\netcoreapp3.1\Empresa.deps.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Empleado\bin\Debug\netcoreapp3.1\Empresa.runtimeconfig.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Empleado\bin\Debug\netcoreapp3.1\Empresa.runtimeconfig.dev.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Empleado\bin\Debug\netcoreapp3.1\Empresa.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Empleado\bin\Debug\netcoreapp3.1\Empresa.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Empleado\obj\Debug\netcoreapp3.1\Empresa.genruntimeconfig.cache
